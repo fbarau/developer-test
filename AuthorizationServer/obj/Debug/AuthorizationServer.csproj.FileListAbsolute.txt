@@ -1,0 +1,168 @@
+C:\Users\epoot\Documents\Visual Studio 2012\Projects\OAuth2Test\AuthorizationServer\bin\AuthorizationServer.dll
+C:\Users\epoot\Documents\Visual Studio 2012\Projects\OAuth2Test\AuthorizationServer\bin\AuthorizationServer.pdb
+C:\Users\epoot\Documents\Visual Studio 2012\Projects\OAuth2Test\AuthorizationServer\bin\Antlr3.Runtime.dll
+C:\Users\epoot\Documents\Visual Studio 2012\Projects\OAuth2Test\AuthorizationServer\bin\Data.dll
+C:\Users\epoot\Documents\Visual Studio 2012\Projects\OAuth2Test\AuthorizationServer\bin\DotNetOpenAuth.AspNet.dll
+C:\Users\epoot\Documents\Visual Studio 2012\Projects\OAuth2Test\AuthorizationServer\bin\DotNetOpenAuth.Core.dll
+C:\Users\epoot\Documents\Visual Studio 2012\Projects\OAuth2Test\AuthorizationServer\bin\DotNetOpenAuth.OAuth.Consumer.dll
+C:\Users\epoot\Documents\Visual Studio 2012\Projects\OAuth2Test\AuthorizationServer\bin\DotNetOpenAuth.OAuth.dll
+C:\Users\epoot\Documents\Visual Studio 2012\Projects\OAuth2Test\AuthorizationServer\bin\DotNetOpenAuth.OpenId.dll
+C:\Users\epoot\Documents\Visual Studio 2012\Projects\OAuth2Test\AuthorizationServer\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+C:\Users\epoot\Documents\Visual Studio 2012\Projects\OAuth2Test\AuthorizationServer\bin\EntityFramework.dll
+C:\Users\epoot\Documents\Visual Studio 2012\Projects\OAuth2Test\AuthorizationServer\bin\Microsoft.Data.Edm.dll
+C:\Users\epoot\Documents\Visual Studio 2012\Projects\OAuth2Test\AuthorizationServer\bin\Microsoft.Data.OData.dll
+C:\Users\epoot\Documents\Visual Studio 2012\Projects\OAuth2Test\AuthorizationServer\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\epoot\Documents\Visual Studio 2012\Projects\OAuth2Test\AuthorizationServer\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+C:\Users\epoot\Documents\Visual Studio 2012\Projects\OAuth2Test\AuthorizationServer\bin\Microsoft.Web.WebPages.OAuth.dll
+C:\Users\epoot\Documents\Visual Studio 2012\Projects\OAuth2Test\AuthorizationServer\bin\Newtonsoft.Json.dll
+C:\Users\epoot\Documents\Visual Studio 2012\Projects\OAuth2Test\AuthorizationServer\bin\System.Spatial.dll
+C:\Users\epoot\Documents\Visual Studio 2012\Projects\OAuth2Test\AuthorizationServer\bin\System.Web.Helpers.dll
+C:\Users\epoot\Documents\Visual Studio 2012\Projects\OAuth2Test\AuthorizationServer\bin\System.Web.Http.OData.dll
+C:\Users\epoot\Documents\Visual Studio 2012\Projects\OAuth2Test\AuthorizationServer\bin\System.Web.Mvc.dll
+C:\Users\epoot\Documents\Visual Studio 2012\Projects\OAuth2Test\AuthorizationServer\bin\System.Web.Optimization.dll
+C:\Users\epoot\Documents\Visual Studio 2012\Projects\OAuth2Test\AuthorizationServer\bin\System.Web.Razor.dll
+C:\Users\epoot\Documents\Visual Studio 2012\Projects\OAuth2Test\AuthorizationServer\bin\System.Web.WebPages.Deployment.dll
+C:\Users\epoot\Documents\Visual Studio 2012\Projects\OAuth2Test\AuthorizationServer\bin\System.Web.WebPages.dll
+C:\Users\epoot\Documents\Visual Studio 2012\Projects\OAuth2Test\AuthorizationServer\bin\System.Web.WebPages.Razor.dll
+C:\Users\epoot\Documents\Visual Studio 2012\Projects\OAuth2Test\AuthorizationServer\bin\WebGrease.dll
+C:\Users\epoot\Documents\Visual Studio 2012\Projects\OAuth2Test\AuthorizationServer\bin\WebMatrix.Data.dll
+C:\Users\epoot\Documents\Visual Studio 2012\Projects\OAuth2Test\AuthorizationServer\bin\WebMatrix.WebData.dll
+C:\Users\epoot\Documents\Visual Studio 2012\Projects\OAuth2Test\AuthorizationServer\bin\Data.pdb
+C:\Users\epoot\Documents\Visual Studio 2012\Projects\OAuth2Test\AuthorizationServer\bin\EntityFramework.xml
+C:\Users\epoot\Documents\Visual Studio 2012\Projects\OAuth2Test\AuthorizationServer\bin\Newtonsoft.Json.xml
+C:\Users\epoot\Documents\Visual Studio 2012\Projects\OAuth2Test\AuthorizationServer\bin\System.Web.Helpers.xml
+C:\Users\epoot\Documents\Visual Studio 2012\Projects\OAuth2Test\AuthorizationServer\bin\System.Web.Mvc.xml
+C:\Users\epoot\Documents\Visual Studio 2012\Projects\OAuth2Test\AuthorizationServer\bin\System.Web.Razor.xml
+C:\Users\epoot\Documents\Visual Studio 2012\Projects\OAuth2Test\AuthorizationServer\bin\System.Web.WebPages.xml
+C:\Users\epoot\Documents\Visual Studio 2012\Projects\OAuth2Test\AuthorizationServer\bin\System.Web.WebPages.Deployment.xml
+C:\Users\epoot\Documents\Visual Studio 2012\Projects\OAuth2Test\AuthorizationServer\bin\System.Web.WebPages.Razor.xml
+C:\Users\epoot\Documents\Visual Studio 2012\Projects\OAuth2Test\AuthorizationServer\bin\WebMatrix.Data.xml
+C:\Users\epoot\Documents\Visual Studio 2012\Projects\OAuth2Test\AuthorizationServer\bin\Microsoft.Web.WebPages.OAuth.xml
+C:\Users\epoot\Documents\Visual Studio 2012\Projects\OAuth2Test\AuthorizationServer\bin\WebMatrix.WebData.xml
+C:\Users\epoot\Documents\Visual Studio 2012\Projects\OAuth2Test\AuthorizationServer\bin\DotNetOpenAuth.AspNet.xml
+C:\Users\epoot\Documents\Visual Studio 2012\Projects\OAuth2Test\AuthorizationServer\bin\DotNetOpenAuth.Core.xml
+C:\Users\epoot\Documents\Visual Studio 2012\Projects\OAuth2Test\AuthorizationServer\bin\DotNetOpenAuth.OAuth.Consumer.xml
+C:\Users\epoot\Documents\Visual Studio 2012\Projects\OAuth2Test\AuthorizationServer\bin\DotNetOpenAuth.OAuth.xml
+C:\Users\epoot\Documents\Visual Studio 2012\Projects\OAuth2Test\AuthorizationServer\bin\DotNetOpenAuth.OpenId.xml
+C:\Users\epoot\Documents\Visual Studio 2012\Projects\OAuth2Test\AuthorizationServer\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+C:\Users\epoot\Documents\Visual Studio 2012\Projects\OAuth2Test\AuthorizationServer\bin\System.Web.Http.OData.xml
+C:\Users\epoot\Documents\Visual Studio 2012\Projects\OAuth2Test\AuthorizationServer\bin\Microsoft.Data.Edm.xml
+C:\Users\epoot\Documents\Visual Studio 2012\Projects\OAuth2Test\AuthorizationServer\bin\Microsoft.Data.OData.xml
+C:\Users\epoot\Documents\Visual Studio 2012\Projects\OAuth2Test\AuthorizationServer\bin\System.Spatial.xml
+C:\Users\epoot\Documents\Visual Studio 2012\Projects\OAuth2Test\AuthorizationServer\bin\de\Microsoft.Data.Edm.resources.dll
+C:\Users\epoot\Documents\Visual Studio 2012\Projects\OAuth2Test\AuthorizationServer\bin\es\Microsoft.Data.Edm.resources.dll
+C:\Users\epoot\Documents\Visual Studio 2012\Projects\OAuth2Test\AuthorizationServer\bin\fr\Microsoft.Data.Edm.resources.dll
+C:\Users\epoot\Documents\Visual Studio 2012\Projects\OAuth2Test\AuthorizationServer\bin\it\Microsoft.Data.Edm.resources.dll
+C:\Users\epoot\Documents\Visual Studio 2012\Projects\OAuth2Test\AuthorizationServer\bin\ja\Microsoft.Data.Edm.resources.dll
+C:\Users\epoot\Documents\Visual Studio 2012\Projects\OAuth2Test\AuthorizationServer\bin\ko\Microsoft.Data.Edm.resources.dll
+C:\Users\epoot\Documents\Visual Studio 2012\Projects\OAuth2Test\AuthorizationServer\bin\ru\Microsoft.Data.Edm.resources.dll
+C:\Users\epoot\Documents\Visual Studio 2012\Projects\OAuth2Test\AuthorizationServer\bin\zh-Hans\Microsoft.Data.Edm.resources.dll
+C:\Users\epoot\Documents\Visual Studio 2012\Projects\OAuth2Test\AuthorizationServer\bin\zh-Hant\Microsoft.Data.Edm.resources.dll
+C:\Users\epoot\Documents\Visual Studio 2012\Projects\OAuth2Test\AuthorizationServer\bin\de\Microsoft.Data.OData.resources.dll
+C:\Users\epoot\Documents\Visual Studio 2012\Projects\OAuth2Test\AuthorizationServer\bin\es\Microsoft.Data.OData.resources.dll
+C:\Users\epoot\Documents\Visual Studio 2012\Projects\OAuth2Test\AuthorizationServer\bin\fr\Microsoft.Data.OData.resources.dll
+C:\Users\epoot\Documents\Visual Studio 2012\Projects\OAuth2Test\AuthorizationServer\bin\it\Microsoft.Data.OData.resources.dll
+C:\Users\epoot\Documents\Visual Studio 2012\Projects\OAuth2Test\AuthorizationServer\bin\ja\Microsoft.Data.OData.resources.dll
+C:\Users\epoot\Documents\Visual Studio 2012\Projects\OAuth2Test\AuthorizationServer\bin\ko\Microsoft.Data.OData.resources.dll
+C:\Users\epoot\Documents\Visual Studio 2012\Projects\OAuth2Test\AuthorizationServer\bin\ru\Microsoft.Data.OData.resources.dll
+C:\Users\epoot\Documents\Visual Studio 2012\Projects\OAuth2Test\AuthorizationServer\bin\zh-Hans\Microsoft.Data.OData.resources.dll
+C:\Users\epoot\Documents\Visual Studio 2012\Projects\OAuth2Test\AuthorizationServer\bin\zh-Hant\Microsoft.Data.OData.resources.dll
+C:\Users\epoot\Documents\Visual Studio 2012\Projects\OAuth2Test\AuthorizationServer\bin\de\System.Spatial.resources.dll
+C:\Users\epoot\Documents\Visual Studio 2012\Projects\OAuth2Test\AuthorizationServer\bin\es\System.Spatial.resources.dll
+C:\Users\epoot\Documents\Visual Studio 2012\Projects\OAuth2Test\AuthorizationServer\bin\fr\System.Spatial.resources.dll
+C:\Users\epoot\Documents\Visual Studio 2012\Projects\OAuth2Test\AuthorizationServer\bin\it\System.Spatial.resources.dll
+C:\Users\epoot\Documents\Visual Studio 2012\Projects\OAuth2Test\AuthorizationServer\bin\ja\System.Spatial.resources.dll
+C:\Users\epoot\Documents\Visual Studio 2012\Projects\OAuth2Test\AuthorizationServer\bin\ko\System.Spatial.resources.dll
+C:\Users\epoot\Documents\Visual Studio 2012\Projects\OAuth2Test\AuthorizationServer\bin\ru\System.Spatial.resources.dll
+C:\Users\epoot\Documents\Visual Studio 2012\Projects\OAuth2Test\AuthorizationServer\bin\zh-Hans\System.Spatial.resources.dll
+C:\Users\epoot\Documents\Visual Studio 2012\Projects\OAuth2Test\AuthorizationServer\bin\zh-Hant\System.Spatial.resources.dll
+C:\Users\epoot\Documents\Visual Studio 2012\Projects\OAuth2Test\AuthorizationServer\obj\Debug\AuthorizationServer.csprojResolveAssemblyReference.cache
+C:\Users\epoot\Documents\Visual Studio 2012\Projects\OAuth2Test\AuthorizationServer\obj\Debug\AuthorizationServer.dll
+C:\Users\epoot\Documents\Visual Studio 2012\Projects\OAuth2Test\AuthorizationServer\obj\Debug\AuthorizationServer.pdb
+C:\Users\Dell XPS\Downloads\OAuthServer\AuthorizationServer\obj\Debug\AuthorizationServer.csprojResolveAssemblyReference.cache
+C:\Users\Dell XPS\Downloads\OAuthServer\AuthorizationServer\obj\Debug\AuthorizationServer.dll
+C:\Users\Dell XPS\Downloads\OAuthServer\AuthorizationServer\obj\Debug\AuthorizationServer.pdb
+C:\Users\Dell XPS\Downloads\OAuthServer\AuthorizationServer\bin\AuthorizationServer.dll
+C:\Users\Dell XPS\Downloads\OAuthServer\AuthorizationServer\bin\AuthorizationServer.pdb
+C:\Users\Dell XPS\Downloads\OAuthServer\AuthorizationServer\bin\Antlr3.Runtime.dll
+C:\Users\Dell XPS\Downloads\OAuthServer\AuthorizationServer\bin\Data.dll
+C:\Users\Dell XPS\Downloads\OAuthServer\AuthorizationServer\bin\DotNetOpenAuth.AspNet.dll
+C:\Users\Dell XPS\Downloads\OAuthServer\AuthorizationServer\bin\DotNetOpenAuth.Core.dll
+C:\Users\Dell XPS\Downloads\OAuthServer\AuthorizationServer\bin\DotNetOpenAuth.OAuth.Consumer.dll
+C:\Users\Dell XPS\Downloads\OAuthServer\AuthorizationServer\bin\DotNetOpenAuth.OAuth.dll
+C:\Users\Dell XPS\Downloads\OAuthServer\AuthorizationServer\bin\DotNetOpenAuth.OpenId.dll
+C:\Users\Dell XPS\Downloads\OAuthServer\AuthorizationServer\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+C:\Users\Dell XPS\Downloads\OAuthServer\AuthorizationServer\bin\EntityFramework.dll
+C:\Users\Dell XPS\Downloads\OAuthServer\AuthorizationServer\bin\Microsoft.Data.Edm.dll
+C:\Users\Dell XPS\Downloads\OAuthServer\AuthorizationServer\bin\Microsoft.Data.OData.dll
+C:\Users\Dell XPS\Downloads\OAuthServer\AuthorizationServer\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Dell XPS\Downloads\OAuthServer\AuthorizationServer\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+C:\Users\Dell XPS\Downloads\OAuthServer\AuthorizationServer\bin\Microsoft.Web.WebPages.OAuth.dll
+C:\Users\Dell XPS\Downloads\OAuthServer\AuthorizationServer\bin\Newtonsoft.Json.dll
+C:\Users\Dell XPS\Downloads\OAuthServer\AuthorizationServer\bin\System.Net.Http.Formatting.dll
+C:\Users\Dell XPS\Downloads\OAuthServer\AuthorizationServer\bin\System.Spatial.dll
+C:\Users\Dell XPS\Downloads\OAuthServer\AuthorizationServer\bin\System.Web.Helpers.dll
+C:\Users\Dell XPS\Downloads\OAuthServer\AuthorizationServer\bin\System.Web.Http.dll
+C:\Users\Dell XPS\Downloads\OAuthServer\AuthorizationServer\bin\System.Web.Http.OData.dll
+C:\Users\Dell XPS\Downloads\OAuthServer\AuthorizationServer\bin\System.Web.Http.WebHost.dll
+C:\Users\Dell XPS\Downloads\OAuthServer\AuthorizationServer\bin\System.Web.Mvc.dll
+C:\Users\Dell XPS\Downloads\OAuthServer\AuthorizationServer\bin\System.Web.Optimization.dll
+C:\Users\Dell XPS\Downloads\OAuthServer\AuthorizationServer\bin\System.Web.Razor.dll
+C:\Users\Dell XPS\Downloads\OAuthServer\AuthorizationServer\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Dell XPS\Downloads\OAuthServer\AuthorizationServer\bin\System.Web.WebPages.dll
+C:\Users\Dell XPS\Downloads\OAuthServer\AuthorizationServer\bin\System.Web.WebPages.Razor.dll
+C:\Users\Dell XPS\Downloads\OAuthServer\AuthorizationServer\bin\WebGrease.dll
+C:\Users\Dell XPS\Downloads\OAuthServer\AuthorizationServer\bin\WebMatrix.Data.dll
+C:\Users\Dell XPS\Downloads\OAuthServer\AuthorizationServer\bin\WebMatrix.WebData.dll
+C:\Users\Dell XPS\Downloads\OAuthServer\AuthorizationServer\bin\Data.pdb
+C:\Users\Dell XPS\Downloads\OAuthServer\AuthorizationServer\bin\EntityFramework.xml
+C:\Users\Dell XPS\Downloads\OAuthServer\AuthorizationServer\bin\Newtonsoft.Json.xml
+C:\Users\Dell XPS\Downloads\OAuthServer\AuthorizationServer\bin\System.Net.Http.Formatting.xml
+C:\Users\Dell XPS\Downloads\OAuthServer\AuthorizationServer\bin\System.Web.Helpers.xml
+C:\Users\Dell XPS\Downloads\OAuthServer\AuthorizationServer\bin\System.Web.Http.xml
+C:\Users\Dell XPS\Downloads\OAuthServer\AuthorizationServer\bin\System.Web.Http.WebHost.xml
+C:\Users\Dell XPS\Downloads\OAuthServer\AuthorizationServer\bin\System.Web.Mvc.xml
+C:\Users\Dell XPS\Downloads\OAuthServer\AuthorizationServer\bin\System.Web.Razor.xml
+C:\Users\Dell XPS\Downloads\OAuthServer\AuthorizationServer\bin\System.Web.WebPages.xml
+C:\Users\Dell XPS\Downloads\OAuthServer\AuthorizationServer\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Dell XPS\Downloads\OAuthServer\AuthorizationServer\bin\System.Web.WebPages.Razor.xml
+C:\Users\Dell XPS\Downloads\OAuthServer\AuthorizationServer\bin\WebMatrix.Data.xml
+C:\Users\Dell XPS\Downloads\OAuthServer\AuthorizationServer\bin\Microsoft.Web.WebPages.OAuth.xml
+C:\Users\Dell XPS\Downloads\OAuthServer\AuthorizationServer\bin\WebMatrix.WebData.xml
+C:\Users\Dell XPS\Downloads\OAuthServer\AuthorizationServer\bin\DotNetOpenAuth.AspNet.xml
+C:\Users\Dell XPS\Downloads\OAuthServer\AuthorizationServer\bin\DotNetOpenAuth.Core.xml
+C:\Users\Dell XPS\Downloads\OAuthServer\AuthorizationServer\bin\DotNetOpenAuth.OAuth.Consumer.xml
+C:\Users\Dell XPS\Downloads\OAuthServer\AuthorizationServer\bin\DotNetOpenAuth.OAuth.xml
+C:\Users\Dell XPS\Downloads\OAuthServer\AuthorizationServer\bin\DotNetOpenAuth.OpenId.xml
+C:\Users\Dell XPS\Downloads\OAuthServer\AuthorizationServer\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+C:\Users\Dell XPS\Downloads\OAuthServer\AuthorizationServer\bin\System.Web.Http.OData.xml
+C:\Users\Dell XPS\Downloads\OAuthServer\AuthorizationServer\bin\Microsoft.Data.Edm.xml
+C:\Users\Dell XPS\Downloads\OAuthServer\AuthorizationServer\bin\Microsoft.Data.OData.xml
+C:\Users\Dell XPS\Downloads\OAuthServer\AuthorizationServer\bin\System.Spatial.xml
+C:\Users\Dell XPS\Downloads\OAuthServer\AuthorizationServer\bin\de\Microsoft.Data.Edm.resources.dll
+C:\Users\Dell XPS\Downloads\OAuthServer\AuthorizationServer\bin\es\Microsoft.Data.Edm.resources.dll
+C:\Users\Dell XPS\Downloads\OAuthServer\AuthorizationServer\bin\fr\Microsoft.Data.Edm.resources.dll
+C:\Users\Dell XPS\Downloads\OAuthServer\AuthorizationServer\bin\it\Microsoft.Data.Edm.resources.dll
+C:\Users\Dell XPS\Downloads\OAuthServer\AuthorizationServer\bin\ja\Microsoft.Data.Edm.resources.dll
+C:\Users\Dell XPS\Downloads\OAuthServer\AuthorizationServer\bin\ko\Microsoft.Data.Edm.resources.dll
+C:\Users\Dell XPS\Downloads\OAuthServer\AuthorizationServer\bin\ru\Microsoft.Data.Edm.resources.dll
+C:\Users\Dell XPS\Downloads\OAuthServer\AuthorizationServer\bin\zh-Hans\Microsoft.Data.Edm.resources.dll
+C:\Users\Dell XPS\Downloads\OAuthServer\AuthorizationServer\bin\zh-Hant\Microsoft.Data.Edm.resources.dll
+C:\Users\Dell XPS\Downloads\OAuthServer\AuthorizationServer\bin\de\Microsoft.Data.OData.resources.dll
+C:\Users\Dell XPS\Downloads\OAuthServer\AuthorizationServer\bin\es\Microsoft.Data.OData.resources.dll
+C:\Users\Dell XPS\Downloads\OAuthServer\AuthorizationServer\bin\fr\Microsoft.Data.OData.resources.dll
+C:\Users\Dell XPS\Downloads\OAuthServer\AuthorizationServer\bin\it\Microsoft.Data.OData.resources.dll
+C:\Users\Dell XPS\Downloads\OAuthServer\AuthorizationServer\bin\ja\Microsoft.Data.OData.resources.dll
+C:\Users\Dell XPS\Downloads\OAuthServer\AuthorizationServer\bin\ko\Microsoft.Data.OData.resources.dll
+C:\Users\Dell XPS\Downloads\OAuthServer\AuthorizationServer\bin\ru\Microsoft.Data.OData.resources.dll
+C:\Users\Dell XPS\Downloads\OAuthServer\AuthorizationServer\bin\zh-Hans\Microsoft.Data.OData.resources.dll
+C:\Users\Dell XPS\Downloads\OAuthServer\AuthorizationServer\bin\zh-Hant\Microsoft.Data.OData.resources.dll
+C:\Users\Dell XPS\Downloads\OAuthServer\AuthorizationServer\bin\de\System.Spatial.resources.dll
+C:\Users\Dell XPS\Downloads\OAuthServer\AuthorizationServer\bin\es\System.Spatial.resources.dll
+C:\Users\Dell XPS\Downloads\OAuthServer\AuthorizationServer\bin\fr\System.Spatial.resources.dll
+C:\Users\Dell XPS\Downloads\OAuthServer\AuthorizationServer\bin\it\System.Spatial.resources.dll
+C:\Users\Dell XPS\Downloads\OAuthServer\AuthorizationServer\bin\ja\System.Spatial.resources.dll
+C:\Users\Dell XPS\Downloads\OAuthServer\AuthorizationServer\bin\ko\System.Spatial.resources.dll
+C:\Users\Dell XPS\Downloads\OAuthServer\AuthorizationServer\bin\ru\System.Spatial.resources.dll
+C:\Users\Dell XPS\Downloads\OAuthServer\AuthorizationServer\bin\zh-Hans\System.Spatial.resources.dll
+C:\Users\Dell XPS\Downloads\OAuthServer\AuthorizationServer\bin\zh-Hant\System.Spatial.resources.dll

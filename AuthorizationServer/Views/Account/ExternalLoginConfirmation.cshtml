@@ -1,0 +1,36 @@
+﻿@model AuthorizationServer.Models.RegisterExternalLoginModel
+@{
+    ViewBag.Title = "Register";
+}
+
+<hgroup class="title">
+    <h1>@ViewBag.Title.</h1>
+    <h2>Associate your @ViewBag.ProviderDisplayName account.</h2>
+</hgroup>
+
+@using (Html.BeginForm("ExternalLoginConfirmation", "Account", new { ReturnUrl = ViewBag.ReturnUrl })) {
+    @Html.AntiForgeryToken()
+    @Html.ValidationSummary(true)
+
+    <fieldset>
+        <legend>Association Form</legend>
+        <p>
+            Você está autenticado <strong>@ViewBag.ProviderDisplayName</strong>.
+            Digite um nome de usuário para este site abaixo e clique no botão
+            Confirmar para finalizar o login.
+        </p>
+        <ol>
+            <li class="name">
+                @Html.LabelFor(m => m.UserName)
+                @Html.TextBoxFor(m => m.UserName)
+                @Html.ValidationMessageFor(m => m.UserName)
+            </li>
+        </ol>
+        @Html.HiddenFor(m => m.ExternalLoginData)
+        <input type="submit" value="Register" />
+    </fieldset>
+}
+
+@section Scripts {
+    @Scripts.Render("~/bundles/jqueryval")
+}

@@ -1,0 +1,22 @@
+﻿@model ICollection<AuthenticationClientData>
+
+@if (Model.Count == 0)
+{
+
+}
+else
+{
+    using (Html.BeginForm("ExternalLogin", "Account", new { ReturnUrl = ViewBag.ReturnUrl }))
+    {
+    @Html.AntiForgeryToken()
+    <fieldset id="socialLoginList">
+        <legend>Faça o login usando outro serviço</legend>
+        <p>
+        @foreach (AuthenticationClientData p in Model)
+        {
+            <button type="submit" name="provider" value="@p.AuthenticationClient.ProviderName" title="Conecte usando sua @p.DisplayName conta">@p.DisplayName</button>
+        }
+        </p>
+    </fieldset>
+    }
+}
